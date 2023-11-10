@@ -10,11 +10,11 @@ SQLCandy tools are VERY opinionated and streamlined. They do not seek to hide or
 
 - **Factory** : (In development). A command line tool to generate .NET classes needed by Wrapper from an existing database. This allows for faster development using Wrapper amd reduces manually creating boilerplate code.
 
-- **Jar** : A library collection of extension methods to streamline development with SQLite.
+- **Jar** : (In development) A library collection of extension methods to streamline development with SQLite.
 
 ## Contributing
 
-Contributions are currently private
+Contributions are currently private.
 
 ## License
 
