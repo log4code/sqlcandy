@@ -1,3 +1,6 @@
+
+![Screenshot 2023-11-10 114845](https://github.com/log4code/sqlcandy/assets/48453433/05e49766-ec56-4b71-b7e4-65349e3a908b)
+
 # SQLCandy
 
 SQLCandy is (will be) a collection of .NET libraries and tools to assist with developing applications that utilize SQLite.
